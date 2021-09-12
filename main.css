@@ -1,0 +1,23 @@
+body {
+    background-image: url("IMG_2185.JPG");
+    background-color: rgb(224, 106, 205);
+    font-family: Comic Sans MS;
+   }
+
+p {
+    font-size: 20px;
+}
+
+button1 {
+    font: bold 15px Comic Sans MS;
+    text-decoration: none;
+    background-color: #ffffff;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    display: inline-block;
+    cursor: pointer;
+    margin-top: #333333;
+    margin-bottom: #333333;
+    margin-left: #333333;
+    margin-right: #333333;
+  }
